@@ -1,4 +1,4 @@
 # Azure
 
 ## VM Log수집 과 alert()
-- [log](./docs/log.md)
+- [log수집과 alert](./docs/log.md)
